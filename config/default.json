@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://fridry:eduardo1508@contactkeeper-mvg0d.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "fridryreact2020"
+}
